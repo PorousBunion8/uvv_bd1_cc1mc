@@ -8,8 +8,8 @@ O arquivo `cc1mc_202306415_postgresql.sql` contém o código SQL para criação 
 
 ## Código do Power Architect
 
-O diretório `power_architect/` contém os arquivos de projeto do Power Architect. Eles podem ser importados na ferramenta Power Architect para visualizar e modificar o modelo de dados.
+O diretório `cc1mc_202306415_postgresql.architect` contém os arquivos de projeto do Power Architect. Eles podem ser importados na ferramenta Power Architect para visualizar e modificar o modelo de dados.
 
 ## PDF do Power Architect
 
-O arquivo `database_model.pdf` é um documento PDF que apresenta o modelo de dados gerado pelo Power Architect. Ele fornece uma representação visual do esquema do banco de dados e das relações entre as tabelas.
+O arquivo `cc1mc_202306415_postgresql.architect.pdf` é um documento PDF que apresenta o modelo de dados gerado pelo Power Architect. Ele fornece uma representação visual do esquema do banco de dados e das relações entre as tabelas.
