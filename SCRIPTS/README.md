@@ -4,7 +4,7 @@ Esta pasta contém os arquivos relacionados ao projeto de banco de dados. Aqui v
 
 ## Código SQL do PostgreSQL
 
-O arquivo `database.sql` contém o código SQL para criação das tabelas, definição das relações e outras estruturas relacionadas ao banco de dados.
+O arquivo `cc1mc_202306415_postgresql.sql` contém o código SQL para criação das tabelas, definição das relações e outras estruturas relacionadas ao banco de dados.
 
 ## Código do Power Architect
 
