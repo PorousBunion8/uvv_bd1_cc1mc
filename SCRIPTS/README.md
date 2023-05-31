@@ -12,4 +12,4 @@ O diretório `cc1mc_202306415_postgresql.architect` contém os arquivos de proje
 
 ## PDF do Power Architect
 
-O arquivo `cc1mc_202306415_postgresql.architect.pdf.pdf` é um documento PDF que apresenta o modelo de dados gerado pelo Power Architect. Ele fornece uma representação visual do esquema do banco de dados e das relações entre as tabelas.
+O arquivo `cc1mc_202306415_postgresql.architect.pdf` é um documento PDF que apresenta o modelo de dados gerado pelo Power Architect. Ele fornece uma representação visual do esquema do banco de dados e das relações entre as tabelas.
